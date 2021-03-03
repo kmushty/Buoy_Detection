@@ -16,3 +16,4 @@ The report containing the details of the outputs and the plots is [here](https:/
 
 <img src="outputs/Buoy_detection1.png" width="640" height="480">
 
+<img src="outputs/buoy.gif" width="640" height="480">
