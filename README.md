@@ -1,4 +1,4 @@
-# Buoy Detection
+# Color Segmentation using Gaussian Mixture Models 
 
 ## Introduction 
 
