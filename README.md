@@ -14,5 +14,5 @@ The report containing the details of the outputs and the plots is [here](https:/
 
 ## Output 
 
-<img src="outputs/Buoy_detection1.png" width="100" height="100">
+<img src="outputs/Buoy_detection1.png" width="640" height="480">
 
